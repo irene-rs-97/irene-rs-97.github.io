@@ -1,0 +1,5 @@
+# About Me
+I’m a Data Scientist with a strong interest in healthcare analytics and the role data can play in improving clinical and operational decision‑making. My background combines technical training in AI and statistical modelling with hands‑on experience working in environments where reliability, clarity and impact truly matter.
+I enjoy projects that sit at the intersection of modelling, analysis and real‑world constraints - especially those where the goal is to support professionals who make high‑pressure decisions every day. Much of my work focuses on understanding hospital activity, designing predictive tools and building analytical frameworks that help reveal patterns that are not always obvious at first glance.
+Beyond the technical side, I value clean communication, thoughtful design and reproducible workflows. I like transforming complex datasets into something that feels intuitive and genuinely useful.
+I’m currently expanding my work in healthcare analytics, decision‑support systems and applied machine learning, with a particular interest in projects that combine public data, operational insights and model interpretability.
