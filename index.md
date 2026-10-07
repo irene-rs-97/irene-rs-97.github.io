@@ -1,51 +1,28 @@
 # Irene Rodríguez Sánchez
-### Data Scientist · AI & Analytics · Healthcare Focus
+### Data Scientist · AI & Healthcare Analytics
 
-I’m a Data Scientist with a strong interest in how data can support better decisions in healthcare. I work at the intersection of predictive modelling, statistical analysis and interactive visualization, building tools that help make sense of hospital activity and the patterns behind it.
+I am a Data Scientist focused on applying analytical and machine learning techniques to improve decision-making in healthcare environments. My work combines predictive modelling, statistical analysis and clear, interpretable visualizations aimed at supporting clinical and operational decisions.
 
-My projects aim to bring clarity to environments where decisions are made under pressure, uncertainty and high responsibility.
+This portfolio highlights a selection of projects that reflect my approach: rigorous methodology, practical relevance and a strong emphasis on clarity and impact.
 
----
+## Featured Projects
 
-## 🔬 Featured Projects
+### Intelligent Scoring System for Hospital Discharge and Transfer Decisions
+A decision-support system designed to address premature discharges and avoidable readmissions. It integrates a predictive model, a multicriteria decision algorithm and an operational analysis of hospital occupancy.
 
-### **Intelligent Scoring System for Hospital Discharge & Transfer Decisions**
-A project focused on two real challenges in healthcare: premature discharges and avoidable readmissions.  
-It includes a predictive model, a multicriteria decision algorithm and an in‑depth analysis of hospital occupancy.  
 **Repository:** https://github.com/irene-rs-97/tfm-sns-pressure-index
 
----
+### Hospital Activity Analysis (INE Data)
+Exploratory and modelling work using public INE datasets to identify patterns in hospital activity across regions and time. Includes PCA, clustering, XGBoost/SHAP and time-series modelling.
 
-### **Hospital Activity EDA (INE Data)**
-Exploratory analysis and modelling of Spanish hospital activity using PCA, clustering, XGBoost/SHAP and time‑series models.  
 **Repository:** https://github.com/irene-rs-97/tfm-hospital-activity-eda
 
----
+### Synthetic Clinical Dataset Generator
+A pipeline for generating realistic, privacy-preserving clinical datasets suitable for experimentation and model development.
 
-### **Synthetic Clinical Dataset Generator**
-A pipeline to create realistic, privacy‑preserving clinical datasets for model training and experimentation.  
 **Repository:** https://github.com/irene-rs-97/dataset-sintetico
 
----
-
-## 📁 Full Project List
-If you want to explore everything in detail:  
-👉 [Projects](projects.md)
-
----
-
-## 🧩 About Me
-A more personal and professional overview:  
-👉 [About](about.md)
-
----
-
-## 📬 Contact
-You can reach me here:  
-👉 [Contact](contact.md)
-
----
-
-## 🧪 Technical Portfolio
-All my technical work is available on GitHub:  
-👉 https://github.com/irene-rs-97
+## Additional Information
+- [Projects](projects.md)  
+- [About](about.md)  
+- [Contact](contact.md)
