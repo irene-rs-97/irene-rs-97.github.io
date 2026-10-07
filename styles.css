@@ -1,0 +1,90 @@
+/* ===== GENERAL ===== */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px;
+    background: #f7f9fc;
+    color: #1a1a1a;
+    line-height: 1.6;
+}
+
+/* ===== HEADERS ===== */
+h1 {
+    font-size: 2.4rem;
+    font-weight: 600;
+    color: #0a3d62;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: #0a3d62;
+    margin-top: 40px;
+}
+
+h3 {
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: #0a3d62;
+    margin-top: 30px;
+}
+
+/* ===== LINKS ===== */
+a {
+    color: #0a3d62;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* ===== NAVIGATION ===== */
+.nav {
+    margin-bottom: 40px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid #dfe6e9;
+}
+
+.nav a {
+    margin-right: 20px;
+    font-size: 1rem;
+}
+
+/* ===== PROJECT IMAGES ===== */
+.project-img {
+    width: 100%;
+    max-width: 700px;
+    border-radius: 6px;
+    margin: 25px 0;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* ===== SECTIONS ===== */
+.section {
+    margin-top: 40px;
+    padding: 20px 0;
+}
+
+/* ===== CARDS ===== */
+.card {
+    background: #ffffff;
+    border: 1px solid #e6e6e6;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 25px 0;
+    box-shadow: 0 1px 6px rgba(0,0,0,0.05);
+}
+
+/* ===== FOOTER ===== */
+footer {
+    margin-top: 60px;
+    padding-top: 20px;
+    border-top: 1px solid #dfe6e9;
+    font-size: 0.9rem;
+    color: #636e72;
+    text-align: center;
+}
