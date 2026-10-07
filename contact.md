@@ -1,6 +1,6 @@
 # Contact
 
-If you’d like to get in touch, collaborate or learn more about my work, here are the best ways to reach me:
+If you would like to get in touch or learn more about my work, you can reach me through the following channels:
 
 **Email**  
 irers.96@gmail.com
@@ -11,4 +11,4 @@ https://www.linkedin.com/in/irene-rodriguez-sanchez-0626371b0
 **GitHub**  
 https://github.com/irene-rs-97
 
-I’m always open to discussing data‑driven projects, healthcare analytics, decision‑support systems or anything related to applied machine learning.
+I am open to discussing data-driven projects, healthcare analytics and applied machine learning.
