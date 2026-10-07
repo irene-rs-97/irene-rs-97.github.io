@@ -4,9 +4,18 @@ body {
     max-width: 900px;
     margin: 0 auto;
     padding: 40px;
-    background: #f4f4f4;
+    background: #f4f4f4; /* Fondo que quieres */
     color: #1a1a1a;
     line-height: 1.6;
+}
+
+/* ===== FIX: HACER VISIBLE EL FONDO ===== */
+/* El tema de GitHub Pages mete un contenedor blanco.
+   Esto lo vuelve transparente para que se vea tu fondo. */
+
+.container,
+.page-content {
+    background: transparent !important;
 }
 
 /* ===== HEADERS ===== */
